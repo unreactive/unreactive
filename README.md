@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @unreactive
-- 👀 I’m interested in front-end development, open source, hardware, ...
-- 🌱 I’m currently learning Rust and Elixir.
-- 💞️ I’m looking to collaborate on anything!
+- 👀 I’m interested in web apps.
+- 🌱 I’m currently learning Swift, and Svelte.
+- 💞️ I’m looking to collaborate on FOSS!
